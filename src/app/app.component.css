@@ -1,0 +1,14 @@
+.main-app-grid- {
+    display: grid;
+    grid-template-rows: 1fr 13fr 1fr;
+    height: 100%;
+}
+.main-header, .main-footer {
+    background-color: #CCC;
+}
+.main-content {
+    background-color: #f1f1f1;
+    width: 90%;
+    margin: 0 auto;
+
+}
